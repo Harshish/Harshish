@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a tinkerer and curious tech enthusiast who happens to be a Software Engineer.<br>I have a wide range of experience from working in networking switch software to<br>developing a full stack web application. <br><br>I am enthusiastic to build and publish my own<br>game someday once I'm done with just this one tutorial (...was what I told myself 2yrs ago).<br><br>In my free time, I like to think about contributing to open source and learn *that* new JS<br>framework. Then I switch on my PS5 and play for 8hrs straight (...it's for research). <br><br>That's all folks! Feel free to connect with me on my socials (...if you have a million dollar<br>idea).
+I'm a tinkerer and curious tech enthusiast who happens to be a Software Engineer.I have a wide range of experience from working in networking switch software to developing a full stack web application. <br><br>I am enthusiastic to build and publish my own game someday once I'm done with just this one tutorial (...was what I told myself 2yrs ago).<br><br>In my free time, I like to think about contributing to open source and learn *that* new JS framework. Then I switch on my PS5 and play for 8hrs straight (...it's for research). <br><br>That's all folks! Feel free to connect with me on my socials (...if you have a million dollar idea) and judge my github stats below.
 
 
 # 💻 Tech Stack:
